@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624940453 source:c:\users\rafael\documents\r33\main.cpp
+	<iostream>
+	<produto.h>
+	<cliente.h>
+	<ctime>
+
+1624941136 c:\users\rafael\documents\r33\include\produto.h
+	<ctime>
+
+1624940390 c:\users\rafael\documents\r33\include\cliente.h
+
