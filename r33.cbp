@@ -35,6 +35,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/cliente.h" />
+		<Unit filename="include/peixes.h" />
 		<Unit filename="include/produto.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
