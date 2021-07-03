@@ -16,9 +16,13 @@ class Produto
         {
             string c;
 
-            if (!nome.empty(nome))
+            if (!Nome.empty())
             {
                 SetNome(Nome);
+            }
+            else
+            {
+                SetNome("ERR");
             }
 
             SetPreco(Preco);
