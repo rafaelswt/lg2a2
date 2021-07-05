@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1624940453 source:c:\users\rafael\documents\r33\main.cpp
+1625522937 source:c:\users\rafael\documents\r33\main.cpp
 	<iostream>
 	<produto.h>
 	<cliente.h>
 	<ctime>
 
-1625271898 c:\users\rafael\documents\r33\include\produto.h
+1625523020 c:\users\rafael\documents\r33\include\produto.h
 	<ctime>
 
-1624940390 c:\users\rafael\documents\r33\include\cliente.h
+1625273694 c:\users\rafael\documents\r33\include\cliente.h
 

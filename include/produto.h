@@ -22,11 +22,23 @@ class Produto
             }
             else
             {
-                SetNome("ERR");
+                SetNome("Sem Nome");
             }
 
-            SetPreco(Preco);
-            SetCategoria(Categoria);
+            if (Preco != 0)
+            {
+                SetPreco(Preco);
+            }
+            else
+                SetPreco(9999);
+
+            if (!Categoria.empty())
+            {
+                SetCategoria(Categoria);
+            }
+            else
+                SetCategoria("SemCategoria");
+
             SetVegetariano(Vegetariano);
 
 
